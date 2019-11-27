@@ -1,0 +1,14 @@
+{
+  "name": "jokenpo-simple-javascript-game",
+  "version": "1.0.0",
+  "description": "_A Pen created at CodePen.io. Original URL: [https://codepen.io/pietrofxq/pen/sHalI](https://codepen.io/pietrofxq/pen/sHalI).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
